@@ -1,4 +1,4 @@
-# {nombre del proyecto}
+# {E-commerce Rastro Perfumeria}
 
 **Descripción:**
 {Un e-comerce comun, corriente pero sobre todas las cosas, funcional; Para la venta de decants y perfumes a un precio mas barato que los convencionales}
