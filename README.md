@@ -6,9 +6,7 @@
 Integrantes:
 
 - {Calvo, Manuel Agustin} | [@ManuelCalvo3232](https://github.com/ManuelCalvo3232)
-- {Borio Perez, Santino} | [@Haghen29](https://github.com/Haghen29)
 - {Bordon, María de los Ángeles} | [@mariaangbr](https://github.com/mariaangbr)
-- {Apellido, Nombre} | [@username](https://github.com/username)
 
 Proyecto institucional **E.E.S.T Nº4 de Berazategui**.
 
